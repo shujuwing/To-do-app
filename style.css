@@ -1,3 +1,5 @@
+@import url(./responsive.css);
+
 *{
     margin: 0;
     padding: 0;
@@ -53,7 +55,7 @@ input{
 button{
     border: none;
     outline: none;
-    padding: 16px 50px;
+    padding: 16px 30px;
     background: rgb(199, 5, 5);
     color: #fff;
     font-size: 16px;
@@ -115,3 +117,7 @@ ul li span:hover{
     background: #edeef0;
 
 } 
+
+
+
+
